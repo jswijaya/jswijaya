@@ -1,16 +1,35 @@
-## Hi there 👋
+<!-- README.md -->
 
-<!--
-**jswijaya/jswijaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Hello, I'm Your Name!</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/github/followers/jswijaya?label=Followers&style=social" alt="GitHub followers">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=jswijaya" alt="Profile views">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👤 Introduction
+
+I'm a passionate **Developer** who loves crafting elegant code and solving challenging problems. Whether it's a new framework or a complex algorithm, I'm always up for the challenge! My areas of interest include:
+
+- **Backend Development** 🌐
+- **Data Structures & Algorithms** 📊
+- **Machine Learning** 🤖
+- **DevOps** 🚀
+
+---
+
+## 👨‍💻 Eat, Code, Sleep, Repeat
+
+Here's a visual representation of my daily routine as a developer:
+
+```mermaid
+graph TD;
+    A[Wake Up] --> B[Code];
+    B --> C[Debug];
+    C --> D[More Coding];
+    D --> E[Review & Refactor];
+    E --> F[Sleep];
+    F --> A;
+```
